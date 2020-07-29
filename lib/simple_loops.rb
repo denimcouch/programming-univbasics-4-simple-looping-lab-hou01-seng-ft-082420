@@ -34,4 +34,6 @@ def return_string_array(array)
   new_array
 end
 
-return_string_array(1, 2 , 3)
+numbers = [1, 2, 3]
+
+return_string_array(numbers)
