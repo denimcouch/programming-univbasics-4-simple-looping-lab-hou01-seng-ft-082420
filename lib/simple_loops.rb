@@ -33,7 +33,3 @@ def return_string_array(array)
   end
   new_array
 end
-
-numbers = [1, 2, 3]
-
-puts return_string_array(numbers)
