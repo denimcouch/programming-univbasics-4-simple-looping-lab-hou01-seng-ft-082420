@@ -36,4 +36,4 @@ end
 
 numbers = [1, 2, 3]
 
-return_string_array(numbers)
+puts return_string_array(numbers)
